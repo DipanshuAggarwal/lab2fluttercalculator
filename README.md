@@ -1,5 +1,6 @@
 # firstflutterproject
-
+I make this project with the help of w3schools and other applications and changes made by me like to construct buttons and add some dependencies to run the project 
+i made changes in main dart and add some clicks like +,-,*,/.
 A new Flutter project.
 
 ## Getting Started
